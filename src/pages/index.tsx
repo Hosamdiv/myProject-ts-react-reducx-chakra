@@ -1,8 +1,10 @@
 
-
-
 const HomePage = () => {
-  return <div>index</div>;
+  return (
+    <div>
+      sadasd
+    </div>
+  );
 };
 
 export default HomePage;
